@@ -1,1 +1,1 @@
-This is a test readme. I want to see how it looks.
+Web app about coffee, love, wandering, and the streets of Skopje :)
